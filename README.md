@@ -1,5 +1,4 @@
 # weather-app
-
 ## weather-app with React Native
 
 ## 01/06/2021
@@ -80,5 +79,22 @@ import * as Location from "expo-location";
 Location.requestPermissionsAsync(); // 접근 허용 요청
 Location.getCurrentPositionAsync(); // 현재위치 가져오기
 // device에서 접근 허용 후 Location Object 확인
+
+```
+
+___
+
+## 07/01/2021
+
+### 무료 날씨 API https://openweathermap.org/api
+
+1. 회원가입 후 API KEY 발급
+2. 요청 URL : http://api.openweathermap.org/data/2.5/weather?lat={lat}&lon={long}&appid={API KEY}&units=metric
+
+```js
+one of expo basic icons
+import { MaterialCommunityIcons } from "@expo/vector-icons";
+
+<MaterialCommunityIcons size={86} name="weather-lightning-rainy" />
 
 ```
