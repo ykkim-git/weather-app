@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "check the weather at your location with expo client",
+    "githubUrl": "https://github.com/ykkim-git/weather-app"
   }
 }

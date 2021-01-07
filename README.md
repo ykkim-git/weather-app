@@ -98,3 +98,5 @@ import { MaterialCommunityIcons } from "@expo/vector-icons";
 <MaterialCommunityIcons size={86} name="weather-lightning-rainy" />
 
 ```
+
+> https://expo.io/@youngkwon/projects/react-navitve-weather-app
