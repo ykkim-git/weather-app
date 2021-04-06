@@ -7,7 +7,7 @@
 
 > npm install -g expo-cli
 
-1. expo init <project-name>
+1. expo init {project-name}
 2. create git repository
 3. git remote add origin [repository]
 4. git pull origin main
